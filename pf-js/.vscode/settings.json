@@ -1,0 +1,13 @@
+{
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#3fd4c238",
+        "titleBar.inactiveBackground": "#3fd4c21f",
+        "titleBar.border": "#3fd4c2",
+        "statusBar.border": "#3fd4c2",
+        "statusBar.foreground": "#3fd4c2",
+        "activityBar.activeBorder": "#3fd4c2",
+        "focusBorder": "#3fd4c280",
+        "__omnify": "diamondhead:subtle"
+    },
+    "omnify.alien": "diamondhead"
+}
